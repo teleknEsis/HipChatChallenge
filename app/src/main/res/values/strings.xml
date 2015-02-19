@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hipchat Challenge</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bring_to_life">Bring your team to life</string>
+    <string name="by_kyle_miller">Demo by Kyle Miller</string>
+    <string name="view_demo">View Demo</string>
+    <string name="enter_some_text">Enter some text to transform</string>
+    <string name="transform">Transform</string>
+    <string name="instructions">Enter @Mentions, Emoticons (yey), or links (http://google.com) in the field above and hit the Hipchat button to transform</string>
+    <string name="go">Go</string>
+</resources>
