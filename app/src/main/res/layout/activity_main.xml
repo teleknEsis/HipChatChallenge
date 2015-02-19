@@ -70,7 +70,7 @@
             android:src="@drawable/hipchat_logo"
             android:layout_gravity="center"/>
 
-        <TextView
+        <com.kmiller.hipchatchallenge.views.HipchatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/hc_blue"
